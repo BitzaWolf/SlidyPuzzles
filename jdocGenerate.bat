@@ -1,0 +1,1 @@
+javadoc -d documentation/jdoc -sourcepath source bitzawolf bitzawolf.dialog convcomm.engine.graphics convcomm.engine.input convcomm.engine.util
