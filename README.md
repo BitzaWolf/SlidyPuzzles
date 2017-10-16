@@ -1,5 +1,7 @@
 # Slidy Puzzles
 
+![Screenshot](http://bitzawolf.com/images/game/SlidyPuzzles.png)
+
 This is a simple game written entirely by myself in native Java 1.5.
 
 The game replciates those toy puzzles where you're given a scrambled image and you need to slide tiles around to reform the original image.
